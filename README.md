@@ -1,4 +1,4 @@
-# pdes
+# PDEs
 Repo for computational PDEs 
 
 1. derivative estimation
